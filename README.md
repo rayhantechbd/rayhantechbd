@@ -1,4 +1,4 @@
-### Hi there 👋, Md. Abu Rayhan
+### Md. Abu Rayhan
 #### WordPress Developer
 ![WordPress Developer](https://www.facebook.com/photo/?fbid=2697315813768657&set=a.120159808150950)
 
