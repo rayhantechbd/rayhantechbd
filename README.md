@@ -6,9 +6,14 @@ Hi, I’m a professional website designer (WordPress, Woocommerce ). I have 10+ 
 I will try to implement and design it according to your requirements. I have a solid experience with WP Websites, eCommerce Websites, Setup and Customizing WordPress Theme, Custom CMS, Error Fixes, Usability, Performance Optimization, Security, SEO, Responsive Web Design, Landing Page Design, and Banner Design.
 Let's discuss your project requirements and take your online presence to the next place.
 
-## Md. Abu Rayhan
-Skills: WordPress / WooCommerce / PHP/ HTML / HTML5/ CSS
+## 👨‍💻 Skills & Experiance:
+- 🔭 WordPress 
+- 🔭 WooCommerce
+- 🔭 Basic SEO
+- 🔭 HTML5 / CSS3 / Bootstrap
+- 🔭 Photoshop
 
+## 👨‍💻 Skills & Experiance:
 - 🔭 I’m currently working on Phoenix Software 
 - 🌱 I’m currently learning Upwork and Fiverr 
 - 👯 I’m looking to collaborate on github 
