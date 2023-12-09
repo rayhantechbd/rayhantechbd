@@ -14,22 +14,22 @@ Let's discuss your project requirements and take your online presence to the nex
 - 🔭 Photoshop
 
 ## 👨‍💻 My Expertise Are:
-✔ WordPress theme/plugin/demo install and customization.
-✔ Custom WordPress website design with Elementor.
-✔ Premium template install and customization.
-✔ WP Landing page design.
-✔ WordPress Optimize Website 100% responsive.
-✔ Elementor /Fusion-builder/Avada/Divi Builder/WP Page Builder.
-✔ Website speed optimization.
-✔ Setup and customizing WordPress theme and plugin.
-✔ Building functional design, beautiful and responsive WP websites.
-✔ WooCommerce Website design.
-✔ Website content upload.
-✔ Redesign any WordPress website.
-✔ Hacking protection & malware block
-✔ Blog template design.
-✔ WordPress website product upload and data entry.
-✔ Security, bugs, and malware fixes.
+-✔ WordPress theme/plugin/demo install and customization.
+-✔ Custom WordPress website design with Elementor.
+-✔ Premium template install and customization.
+-✔ WP Landing page design.
+-✔ WordPress Optimize Website 100% responsive.
+-✔ Elementor /Fusion-builder/Avada/Divi Builder/WP Page Builder.
+-✔ Website speed optimization.
+-✔ Setup and customizing WordPress theme and plugin.
+-✔ Building functional design, beautiful and responsive WP websites.
+-✔ WooCommerce Website design.
+-✔ Website content upload.
+-✔ Redesign any WordPress website.
+-✔ Hacking protection & malware block
+-✔ Blog template design.
+-✔ WordPress website product upload and data entry.
+-✔ Security, bugs, and malware fixes.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rayhantechbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rayhankhanbd//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rayhantechbd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/rayhankhan_bd)  
