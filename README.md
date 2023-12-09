@@ -1,5 +1,5 @@
 ## Md. Abu Rayhan
-### WordPress Developer
+### Web Developer
 
 Hi, I’m a professional website designer (WordPress, Woocommerce ). I have 10+ Years of Experience in the Website Designing and Development Sector. I have designed over 250+ websites using various technologies in the last few years.
 
